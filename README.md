@@ -1,3 +1,3 @@
 # Tinder Clone 
-## Technologies Used: Html,shell ,Css,React Js
+## Technologies Used:shell ,Css,React Js
 
